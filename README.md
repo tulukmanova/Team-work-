@@ -7,5 +7,5 @@
 #if the user guess wrong number than programm say it's wrong 
 #Print the  higher number 
 #print the number 
-#All set, gu
-   
+#All set
+#Ptogram will finish with 0
