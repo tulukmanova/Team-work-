@@ -1,11 +1,13 @@
 # Team-work-
 #10/29/24
 
-#Make it random numbers from 1 to 10 
-#print the number 
-#Please guess the number wich is higher
-#if the user guess wrong number than programm say it's wrong 
-#Print the  higher number 
-#print the number 
-#All set
-#Ptogram will finish with 0
+# first import random module
+# then add a input of random numbers from 1 to 10 
+# user needs to enter a number between 1 - 10
+# if user's guessed number is less than 1 or greater than 10 then it will not work or it will prompt as "You guessed wrong number"
+# if user guessed correct number then it will print the number
+# Nest input: Please guess higher number
+# if user didn't get guessed higher num it will prompt as "You guessed wrong number"
+# if user guessed correct number then it will print number 
+# All set
+# Program will finish
