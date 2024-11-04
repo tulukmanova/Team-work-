@@ -1,4 +1,4 @@
-# Team-work-
+# Team-work- by Takhmina & Fahad
 #10/29/24
 
 # first import random module
